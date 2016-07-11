@@ -1,0 +1,14 @@
+layout_spectrum: 0.7642131524626166
+typography_spectrum: 0.8472654251381755
+color:
+  brandStrength: 0.29941774904727936
+  lightness: 0.5586026979144663
+  saturation: 0.5276851276867092
+  rhythmicContrast: 0.21403993596322834
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: royglobalized
